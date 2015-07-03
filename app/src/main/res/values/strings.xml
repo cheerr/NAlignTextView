@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlignText</string>
+    <string name="hello_world">在Beckhoff TwinCAT系统中，各个软件模块,如TwinCAT-PLC、TwinCAT-NC、Windows应用程序等，的工作模式类似于硬件设备，它们能够独立工作\n各个软件模块之间的信息交换通过TwinCAT-ADS而完成</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
